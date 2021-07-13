@@ -1,0 +1,1 @@
+{"rustc":14538506936476968585,"features":"[\"default\", \"u128\"]","target":8367222685156689528,"profile":10817673778163502621,"path":14087713053246296602,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/byte-unit-00c0c826ec38141d/dep-lib-byte-unit"}}],"rustflags":[],"metadata":793401296509457596,"config":0,"compile_kind":0}

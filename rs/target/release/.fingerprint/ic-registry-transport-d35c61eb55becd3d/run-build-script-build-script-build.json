@@ -1,0 +1,1 @@
+{"rustc":14538506936476968585,"features":"","target":0,"profile":0,"path":0,"deps":[[5814023542336464175,"build_script_build",false,9727791727278186257]],"local":[{"RerunIfChanged":{"output":"release/build/ic-registry-transport-d35c61eb55becd3d/output","paths":["proto/ic_registry_transport/pb/v1/transport.proto"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

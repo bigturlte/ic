@@ -1,0 +1,1 @@
+cargo:rerun-if-changed=proto/ic_base_types/pb/v1/types.proto

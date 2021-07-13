@@ -1,0 +1,15 @@
+/Users/nikita.shestakov/Documents/GitHub/ic/rs/target/release/deps/prost_build-3b73c6962c56f20c.rmeta: /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/lib.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ast.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/code_generator.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/extern_paths.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ident.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/message_graph.rs
+
+/Users/nikita.shestakov/Documents/GitHub/ic/rs/target/release/deps/libprost_build-3b73c6962c56f20c.rlib: /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/lib.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ast.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/code_generator.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/extern_paths.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ident.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/message_graph.rs
+
+/Users/nikita.shestakov/Documents/GitHub/ic/rs/target/release/deps/prost_build-3b73c6962c56f20c.d: /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/lib.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ast.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/code_generator.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/extern_paths.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ident.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/message_graph.rs
+
+/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/lib.rs:
+/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ast.rs:
+/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/code_generator.rs:
+/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/extern_paths.rs:
+/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ident.rs:
+/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/message_graph.rs:
+
+# env-dep:PROTOC=/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/third-party/protobuf/protoc-osx-x86_64
+# env-dep:PROTOC_INCLUDE=/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/third-party/protobuf/include

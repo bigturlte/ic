@@ -1,0 +1,11 @@
+/Users/nikita.shestakov/Documents/GitHub/ic/rs/target/release/deps/prost-918db59f2d9434e2.rmeta: /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/lib.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/error.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/message.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/types.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/encoding.rs
+
+/Users/nikita.shestakov/Documents/GitHub/ic/rs/target/release/deps/libprost-918db59f2d9434e2.rlib: /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/lib.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/error.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/message.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/types.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/encoding.rs
+
+/Users/nikita.shestakov/Documents/GitHub/ic/rs/target/release/deps/prost-918db59f2d9434e2.d: /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/lib.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/error.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/message.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/types.rs /Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/encoding.rs
+
+/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/lib.rs:
+/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/error.rs:
+/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/message.rs:
+/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/types.rs:
+/Users/nikita.shestakov/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-0.7.0/src/encoding.rs:

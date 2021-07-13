@@ -1,0 +1,1 @@
+cargo:rerun-if-changed=proto/ic_registry_transport/pb/v1/transport.proto

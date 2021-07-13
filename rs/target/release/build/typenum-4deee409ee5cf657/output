@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/nikita.shestakov/Documents/GitHub/ic/rs/target/release/build/typenum-4deee409ee5cf657/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/nikita.shestakov/Documents/GitHub/ic/rs/target/release/build/typenum-4deee409ee5cf657/out/op.rs

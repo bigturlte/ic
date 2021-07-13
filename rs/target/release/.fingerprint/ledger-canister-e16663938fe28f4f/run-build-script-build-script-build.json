@@ -1,0 +1,1 @@
+{"rustc":14538506936476968585,"features":"","target":0,"profile":0,"path":0,"deps":[[2569616529702907887,"build_script_build",false,1655107218477501282]],"local":[{"RerunIfChanged":{"output":"release/build/ledger-canister-e16663938fe28f4f/output","paths":["proto/ic_ledger/pb/v1/types.proto"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
