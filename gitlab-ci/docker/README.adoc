@@ -12,3 +12,4 @@
 
 This will run GitLab CI pipeline against your new docker image. If merged into master
 your new image will be used on future PRs.
+Test test
